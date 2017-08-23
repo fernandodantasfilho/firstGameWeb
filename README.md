@@ -10,4 +10,4 @@ In the game was inserted mobile platforms, coin capture and victory and defeat c
 - Player Movement: Arrows back and forth
 - Jump: Space
 
-[Play](https://fernandodantasfilho.github.io/firstGameWeb/)
+## [Play](https://fernandodantasfilho.github.io/firstGameWeb/)
