@@ -1,6 +1,6 @@
 # firstGameWeb
 
-![GitHub Logo](Banner.png)
+![GitHub Logo](assets/banner.png)
 
 First game developed for web with phaser framework.
 In this game, for the Player, was inserted his movement back and forth, and his jump with rotating animation.
