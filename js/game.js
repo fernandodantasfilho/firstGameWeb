@@ -90,7 +90,7 @@ GameState.prototype.update = function() {
           }
     }
   
-    //movimentando da plataforma
+    //movimentando as plataformas
     if (this.movingPlatform.x < 50){
         this.movingPlatform.body.velocity.x = 100;
     }
